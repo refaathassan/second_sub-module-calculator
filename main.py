@@ -4,7 +4,7 @@ sumation=first_num+second_num
 subtraction=first_num-second_num
 multiplication=first_num*second_num
 division=0
-if second_num< first_num :
+if second_num != 0:
     division=first_num/second_num
 print("the sumation  ",sumation)
 print("the subtraction  ",subtraction)
